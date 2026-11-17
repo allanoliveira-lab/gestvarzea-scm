@@ -1,0 +1,17 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Configurações locais e segredos (nunca versionar)
+.env
+*.db
+*.sqlite3
+
+# Arquivos do editor / sistema
+.vscode/
+.idea/
+Thumbs.db
